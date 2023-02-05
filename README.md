@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML Email Development
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking to collaborate on email templates
-- 📫 How to reach me - matthewallenmedia@gmail.com
+- 📫 How to reach me - matt@matthewallenmedia.com
 
 <!---
 MattFeezy/MattFeezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
